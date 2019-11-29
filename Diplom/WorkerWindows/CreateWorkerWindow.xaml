@@ -1,0 +1,76 @@
+﻿<Window x:Class="Diplom.CreateWorkerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Diplom"
+        mc:Ignorable="d"
+        Title="CreateWorkerWindow" Height="747.931" Width="650.69">
+    <Grid>
+        <StackPanel Margin="10,10,371,10">
+            <Label x:Name="label" Content="Имя"/>
+            <TextBox x:Name="name" Height="23" TextWrapping="Wrap"/>
+            <Label x:Name="label1" Content="Фамилия"/>
+            <TextBox x:Name="surname" Height="23" TextWrapping="Wrap" />
+            <Label x:Name="label2" Content="Отчество"/>
+            <TextBox x:Name="patronymic" Height="23" TextWrapping="Wrap" />
+            <Label x:Name="label3" Content="Прописка"/>
+            <TextBox x:Name="registrationPlace" Height="23" TextWrapping="Wrap"/>
+            <Label x:Name="label4" Content="Место рождени"/>
+            <TextBox x:Name="birthPlace" Height="23" TextWrapping="Wrap"/>
+            <Label x:Name="label6" Content="Дата рождения"/>
+            <DatePicker x:Name="dateOfBirth"/>
+            <Label x:Name="label7" Content="Национальность"/>
+            <ComboBox x:Name="nationality">
+                <TextBlock>Русский</TextBlock>
+                <TextBlock>Беларус</TextBlock>
+                <TextBlock>Украинец</TextBlock>
+                <TextBlock>Другое</TextBlock>
+            </ComboBox>
+            <Label x:Name="label8" Content="Образование"/>
+            <ComboBox x:Name="education">
+                <TextBlock>высшее</TextBlock>
+                <TextBlock>неполное высшее</TextBlock>
+                <TextBlock>среднеспециальное</TextBlock>
+                <TextBlock>среднее</TextBlock>
+            </ComboBox>
+            <Label x:Name="label9" Content="Пол"/>
+            <ComboBox x:Name="sex">
+                <TextBlock>мужской</TextBlock>
+                <TextBlock>женский</TextBlock>
+            </ComboBox>
+            <Label x:Name="label10" Content="Семейное положение"/>
+            <ComboBox x:Name="maritalStatus">
+                <TextBlock>холост</TextBlock>
+                <TextBlock>женат</TextBlock>
+            </ComboBox>
+            <Label x:Name="phoneNumlabel" Content="Телефон"/>
+            <TextBox x:Name="phoneNum" Height="23" TextWrapping="Wrap"/>
+            <Label x:Name="label12" Content="Эл. почтовый адресс"/>
+            <TextBox x:Name="email" Height="23" TextWrapping="Wrap"/>
+            <Label x:Name="label11" Content="Отдел"/>
+            <ComboBox x:Name="departament" ItemsSource="{Binding Name}" />
+
+        </StackPanel>
+        <StackPanel Margin="277,10,10,145">
+            <Label x:Name="label5" Content="Список контрактов" Margin="0,0,49,0"/>
+            <ListView x:Name="contractListView" Height="auto">
+                <ListView.View>
+                    <GridView>
+                        <!--<GridViewColumn DisplayMemberBinding="{Binding Path=ID}" Width="0">ID</GridViewColumn>-->
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=wrk.Name}" Width="112">Номер</GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=beginDate, StringFormat=\{0:dd.MM.yy\}}" Width="120">Дата заключения</GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=endDate, StringFormat=\{0:dd.MM.yy\}}" Width="120">Дата окончания</GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Button x:Name="AddContractButton" Content="Новый контракт" Click="AddContractButton_Click"/>
+            <Button x:Name="ChangeContractButton" Content="Редактировать контракт" Click="ChangeContractButton_Click"/>
+            <Button x:Name="RemoveContractButton" Content="Удалить контракт" Click="RemoveContractButton_Click"/>
+        </StackPanel>
+        <StackPanel Margin="272,573,10,10">
+            <Button x:Name="AddWorkerButton" Content="Сохранить" Click="AddWorkerButton_Click" Height="44" Margin="10 10 10 10"/>
+            <Button x:Name="Close" Content="Назад" IsCancel="True" Height="44" Margin="10 10 10 10" Click="Close_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

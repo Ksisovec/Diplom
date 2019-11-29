@@ -1,0 +1,20 @@
+﻿Diplom
+
+
+winexe
+C#
+.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\
+Diplom
+none
+false
+DEBUG;TRACE
+d:\works\Final(last version)\Diplom\Diplom\App.xaml
+16227667499
+
+68-1292815750
+23-692217200
+Authentication\LoginWindow.xaml;Authentication\RegisterWindow.xaml;EventWindows\ConcertWindows\AddConcerWindow2.xaml;EventWindows\InfoWorker.xaml;WorkerWindows\AddContractWindow.xaml;EventWindows\ConcertWindows\AddMarkForConcertWindow.xaml;EventWindows\ConcertWindows\AddWorkersToConcertWindow.xaml;EventWindows\ConcertWindows\ChangeConcertWindow.xaml;WorkerWindows\ChangeWorkerWindow.xaml;EventWindows\ChooseEvent.xaml;EventWindows\ConcertWindows\ConcertsWindow.xaml;WorkerWindows\CreateWorkerWindow.xaml;EventWindows\InfoEventWindow.xaml;EventWindows\LessonWondows\LessonWindow.xaml;MainWindow.xaml;WorkerWindows\WorkersWindow.xaml;
+
+False
+

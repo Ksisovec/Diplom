@@ -1,0 +1,31 @@
+﻿<Window x:Class="Diplom.Authentication.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Diplom.Authentication"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="227.176" Width="378.966">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="5" />
+            <Setter Property="HorizontalAlignment" Value="Stretch" />
+            <Setter Property="Margin" Value="8 15 8 8" />
+            <Setter Property="Width" Value="100" />
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,0,2,0">
+        <StackPanel Margin="10,125,11,6" Orientation="Horizontal" >
+            <Button x:Name="btnRegister" Content="Регистарция" Click="btnRegister_Click" Foreground="Black" Background="White"  FontSize="14" FontFamily="Harlow Solid Italic" FontWeight="Bold" FontStyle="Italic" OpacityMask="Black"/>
+            <Button x:Name="btnOK" Content="Войти" Click="btnOK_Click" Foreground="Black" Background="White"  FontSize="14" FontFamily="Harlow Solid Italic" FontWeight="Bold" FontStyle="Italic" OpacityMask="Black"/>
+            <Button  Content="Отмена" Foreground="Black" Background="White"  FontSize="14" FontFamily="Harlow Solid Italic" FontWeight="Bold" FontStyle="Italic" OpacityMask="Black" Click="btnCancel_Click"/>
+
+        </StackPanel>
+        <Rectangle Fill="#FFF4F4F5" Margin="10,10,11,0" Stroke="Black" Height="110" VerticalAlignment="Top"/>
+        <Label x:Name="label" Content="Фамилия" HorizontalAlignment="Left" Margin="36,20,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Пароль" HorizontalAlignment="Left" Margin="36,69,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.155,0.33"/>
+        <ComboBox x:Name="surnameComboBox" HorizontalAlignment="Left" Margin="132,20,0,0" VerticalAlignment="Top" Width="177"/>
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Margin="132,67,0,0" VerticalAlignment="Top" Width="177"/>
+
+    </Grid>
+</Window>

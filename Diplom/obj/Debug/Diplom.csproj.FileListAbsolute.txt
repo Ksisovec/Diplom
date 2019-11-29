@@ -1,0 +1,305 @@
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\Diplom.csproj.ResolveComReference.cache
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\Authentication\LoginWindow.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\Authentication\RegisterWindow.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\AddConcerWindow2.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\InfoWorker.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\WorkerWindows\AddContractWindow.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\AddMarkForConcertWindow.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\AddWorkersToConcertWindow.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\ChangeConcertWindow.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\WorkerWindows\ChangeWorkerWindow.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\ChooseEvent.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\ConcertsWindow.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\WorkerWindows\CreateWorkerWindow.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\InfoEventWindow.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\LessonWondows\LessonWindow.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\MainWindow.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\WorkerWindows\WorkersWindow.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\App.g.cs
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\Diplom_MarkupCompile.cache
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\Diplom_MarkupCompile.lref
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\Diplom.exe.config
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\Diplom.exe
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\Diplom.pdb
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\EntityFramework.dll
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\EntityFramework.SqlServer.dll
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\Mono.Security.dll
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\Npgsql.dll
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\Npgsql.EntityFramework.dll
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\EntityFramework.xml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\EntityFramework.SqlServer.xml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\Npgsql.xml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\Npgsql.EntityFramework.xml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\de\Npgsql.resources.dll
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\es\Npgsql.resources.dll
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\fi\Npgsql.resources.dll
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\fr\Npgsql.resources.dll
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\ja\Npgsql.resources.dll
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\bin\Debug\zh-CN\Npgsql.resources.dll
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\Authentication\LoginWindow.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\Authentication\RegisterWindow.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\AddConcerWindow2.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\InfoWorker.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\WorkerWindows\AddContractWindow.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\AddMarkForConcertWindow.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\AddWorkersToConcertWindow.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\ChangeConcertWindow.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\WorkerWindows\ChangeWorkerWindow.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\ChooseEvent.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\ConcertsWindow.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\WorkerWindows\CreateWorkerWindow.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\InfoEventWindow.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\EventWindows\LessonWondows\LessonWindow.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\MainWindow.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\WorkerWindows\WorkersWindow.baml
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\Diplom.g.resources
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\Diplom.Migrations.CreateDB.resources
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\Diplom.Properties.Resources.resources
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\Diplom.csproj.GenerateResource.Cache
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\Diplom.exe
+d:\works\NameSpaceChanged\DiplomAndrey\DiplomAndrey\obj\Debug\Diplom.pdb
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\Diplom.exe.config
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\Diplom.csproj.ResolveComReference.cache
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\Diplom.exe
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\Diplom.pdb
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\Diplom.exe
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\Diplom.pdb
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\EntityFramework.dll
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\EntityFramework.SqlServer.dll
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\Mono.Security.dll
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\Npgsql.dll
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\Npgsql.EntityFramework.dll
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\EntityFramework.xml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\EntityFramework.SqlServer.xml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\Npgsql.xml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\Npgsql.EntityFramework.xml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\de\Npgsql.resources.dll
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\es\Npgsql.resources.dll
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\fi\Npgsql.resources.dll
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\fr\Npgsql.resources.dll
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\ja\Npgsql.resources.dll
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\bin\Debug\zh-CN\Npgsql.resources.dll
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\Authentication\LoginWindow.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\Authentication\RegisterWindow.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\AddConcerWindow2.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\InfoWorker.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\WorkerWindows\AddContractWindow.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\AddMarkForConcertWindow.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\AddWorkersToConcertWindow.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\ChangeConcertWindow.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\WorkerWindows\ChangeWorkerWindow.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\ChooseEvent.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\ConcertsWindow.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\WorkerWindows\CreateWorkerWindow.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\InfoEventWindow.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\LessonWondows\LessonWindow.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\MainWindow.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\WorkerWindows\WorkersWindow.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\App.g.cs
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\Diplom_MarkupCompile.cache
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\Diplom_MarkupCompile.lref
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\Authentication\LoginWindow.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\Authentication\RegisterWindow.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\AddConcerWindow2.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\InfoWorker.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\WorkerWindows\AddContractWindow.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\AddMarkForConcertWindow.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\AddWorkersToConcertWindow.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\ChangeConcertWindow.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\WorkerWindows\ChangeWorkerWindow.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\ChooseEvent.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\ConcertWindows\ConcertsWindow.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\WorkerWindows\CreateWorkerWindow.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\InfoEventWindow.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\EventWindows\LessonWondows\LessonWindow.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\MainWindow.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\WorkerWindows\WorkersWindow.baml
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\Diplom.g.resources
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\Diplom.Migrations.CreateDB.resources
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\Diplom.Properties.Resources.resources
+d:\works\NameSpaceChanged\Diplom\DiplomAndrey\obj\Debug\Diplom.csproj.GenerateResource.Cache
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\Diplom.exe.config
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\Diplom.exe
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\Diplom.pdb
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\EntityFramework.dll
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\EntityFramework.SqlServer.dll
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\Mono.Security.dll
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\Npgsql.dll
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\Npgsql.EntityFramework.dll
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\EntityFramework.xml
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\EntityFramework.SqlServer.xml
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\Npgsql.xml
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\Npgsql.EntityFramework.xml
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\de\Npgsql.resources.dll
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\es\Npgsql.resources.dll
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\fi\Npgsql.resources.dll
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\fr\Npgsql.resources.dll
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\ja\Npgsql.resources.dll
+D:\works\NameSpaceChanged\Diplom\Diplom\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\Diplom.csproj.ResolveComReference.cache
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\Authentication\LoginWindow.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\Authentication\RegisterWindow.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddConcerWindow2.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\InfoWorker.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\WorkerWindows\AddContractWindow.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddMarkForConcertWindow.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddWorkersToConcertWindow.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\ChangeConcertWindow.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\WorkerWindows\ChangeWorkerWindow.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\ChooseEvent.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\ConcertsWindow.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\WorkerWindows\CreateWorkerWindow.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\InfoEventWindow.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\LessonWondows\LessonWindow.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\MainWindow.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\WorkerWindows\WorkersWindow.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\App.g.cs
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.cache
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.lref
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\Authentication\LoginWindow.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\Authentication\RegisterWindow.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddConcerWindow2.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\InfoWorker.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\WorkerWindows\AddContractWindow.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddMarkForConcertWindow.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddWorkersToConcertWindow.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\ChangeConcertWindow.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\WorkerWindows\ChangeWorkerWindow.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\ChooseEvent.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\ConcertsWindow.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\WorkerWindows\CreateWorkerWindow.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\InfoEventWindow.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\EventWindows\LessonWondows\LessonWindow.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\MainWindow.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\WorkerWindows\WorkersWindow.baml
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\Diplom.g.resources
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\Diplom.Migrations.CreateDB.resources
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\Diplom.exe
+D:\works\NameSpaceChanged\Diplom\Diplom\obj\Debug\Diplom.pdb
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\Diplom.exe.config
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\Diplom.csproj.ResolveComReference.cache
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\Diplom.exe
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\Diplom.pdb
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\Diplom.exe
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\Diplom.pdb
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\EntityFramework.dll
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\EntityFramework.SqlServer.dll
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\Mono.Security.dll
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\Npgsql.dll
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\Npgsql.EntityFramework.dll
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\EntityFramework.xml
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\EntityFramework.SqlServer.xml
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\Npgsql.xml
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\Npgsql.EntityFramework.xml
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\de\Npgsql.resources.dll
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\es\Npgsql.resources.dll
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\fi\Npgsql.resources.dll
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\fr\Npgsql.resources.dll
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\ja\Npgsql.resources.dll
+d:\works\ChangeDBName\Diplom\Diplom\bin\Debug\zh-CN\Npgsql.resources.dll
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\Authentication\LoginWindow.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\Authentication\RegisterWindow.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddConcerWindow2.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\InfoWorker.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\WorkerWindows\AddContractWindow.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddMarkForConcertWindow.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddWorkersToConcertWindow.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\ChangeConcertWindow.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\WorkerWindows\ChangeWorkerWindow.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\ChooseEvent.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\ConcertsWindow.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\WorkerWindows\CreateWorkerWindow.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\InfoEventWindow.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\LessonWondows\LessonWindow.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\MainWindow.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\WorkerWindows\WorkersWindow.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\App.g.cs
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.cache
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.lref
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\Authentication\LoginWindow.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\Authentication\RegisterWindow.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddConcerWindow2.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\InfoWorker.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\WorkerWindows\AddContractWindow.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddMarkForConcertWindow.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddWorkersToConcertWindow.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\ChangeConcertWindow.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\WorkerWindows\ChangeWorkerWindow.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\ChooseEvent.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\ConcertsWindow.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\WorkerWindows\CreateWorkerWindow.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\InfoEventWindow.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\EventWindows\LessonWondows\LessonWindow.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\MainWindow.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\WorkerWindows\WorkersWindow.baml
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\Diplom.g.resources
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\Diplom.Migrations.CreateDB.resources
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+d:\works\ChangeDBName\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\Diplom.exe.config
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\Diplom.csproj.ResolveComReference.cache
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\Diplom.exe
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\Diplom.pdb
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\Diplom.exe
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\Diplom.pdb
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\EntityFramework.dll
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\EntityFramework.SqlServer.dll
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\Mono.Security.dll
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\Npgsql.dll
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\Npgsql.EntityFramework.dll
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\EntityFramework.xml
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\EntityFramework.SqlServer.xml
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\Npgsql.xml
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\Npgsql.EntityFramework.xml
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\de\Npgsql.resources.dll
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\es\Npgsql.resources.dll
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\fi\Npgsql.resources.dll
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\fr\Npgsql.resources.dll
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\ja\Npgsql.resources.dll
+d:\works\Final(last version)\Diplom\Diplom\bin\Debug\zh-CN\Npgsql.resources.dll
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\Authentication\LoginWindow.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\Authentication\RegisterWindow.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddConcerWindow2.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\InfoWorker.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\WorkerWindows\AddContractWindow.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddMarkForConcertWindow.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddWorkersToConcertWindow.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\ChangeConcertWindow.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\WorkerWindows\ChangeWorkerWindow.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\ChooseEvent.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\ConcertsWindow.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\WorkerWindows\CreateWorkerWindow.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\InfoEventWindow.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\LessonWondows\LessonWindow.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\MainWindow.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\WorkerWindows\WorkersWindow.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\App.g.cs
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.cache
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.lref
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\Authentication\LoginWindow.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\Authentication\RegisterWindow.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddConcerWindow2.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\InfoWorker.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\WorkerWindows\AddContractWindow.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddMarkForConcertWindow.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\AddWorkersToConcertWindow.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\ChangeConcertWindow.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\WorkerWindows\ChangeWorkerWindow.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\ChooseEvent.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\ConcertWindows\ConcertsWindow.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\WorkerWindows\CreateWorkerWindow.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\InfoEventWindow.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\EventWindows\LessonWondows\LessonWindow.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\MainWindow.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\WorkerWindows\WorkersWindow.baml
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\Diplom.g.resources
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\Diplom.Migrations.CreateDB.resources
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+d:\works\Final(last version)\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
